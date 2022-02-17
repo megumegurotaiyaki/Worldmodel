@@ -1,2 +1,2 @@
 # Worldmodel
-for mt private study about world model
+for my private study about world model
